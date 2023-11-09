@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=Purple&size=30&center=true&vCenter=true&width=1000&lines=Prazer...;+Me+chamo+Yago.;Tenho+19+anos...;Moro+no+Brasil!;Cursando+Análise+e+Desenvolvimento+de+Sistemas!;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
 
-> Ultimamente interessado em Tudo que utiliza Python, Inteligëncia Artificial, Aprendizado de Máquina e Programação Assíncrona! (https://github.com/YRammus)
+> Ultimamente interessado em Tudo que utiliza Python, C, Inteligëncia Artificial, Aprendizado de Máquina e Programação Assíncrona! (https://github.com/YRammus)
 
 - 💻 Cursando Análise e Desenvolvimento de Sistemas
 - 🕵️ Pesquisador em **NLP**
