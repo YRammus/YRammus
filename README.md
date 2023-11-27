@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=100&color=9A00F7&center=false&random=false&width=435&lines=Meu+nome+é+Yago;Curso+Análise+e+Desenvolvimento+de+Sistemas;Prazer.)](https://git.io/typing-svg)
 
-> Ultimamente interessado em Tudo que utiliza Python, C, Inteligëncia Artificial, Aprendizado de Máquina e Programação Evolucionária! 
+> Ultimamente interessado em Tudo que utiliza Python, C, Inteligëncia Artificial, Aprendizado de Máquina e Programação Evolucionária.
 <!--
 <div align="center">
   <a href="[https://github.com/YRammus](https://github.com/YRammus?tab=repositories)">
