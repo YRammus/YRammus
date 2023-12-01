@@ -4,6 +4,14 @@
 
 > Ultimamente interessado em Tudo que utiliza Python, C, Inteligëncia Artificial, Aprendizado de Máquina e Programação Evolucionária.
 <!--
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/YRammus">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YRammus&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YRammus&layout=compact&langs_count=16&theme=holi"/>
+</div>
+<!--
 <div align="center">
   <a href="[https://github.com/YRammus](https://github.com/YRammus?tab=repositories)">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=YRammus&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
@@ -57,11 +65,6 @@
 <br><br>
 
 -->
-<div align="center">
-  <a href="https://github.com/YRammus">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=YRammus&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YRammus&layout=compact&langs_count=16&theme=holi"/>
-</div>
 <!--
   # Conhecimentos 💡
 <div style="display: inline_block" align="left"><br>
