@@ -1,9 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9A00F7&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=100&color=9A00F7&center=false&random=false&width=435&lines=Meu+nome+é+Yago;Curso+Análise+e+Desenvolvimento+de+Sistemas;Prazer.)](https://git.io/typing-svg)
-
-> Ultimamente interessado em Tudo que utiliza Python, C, Inteligëncia Artificial, Aprendizado de Máquina e Programação Evolucionária.
 <!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&pause=100&color=9A00F7&center=false&random=false&width=435&lines=Meu+nome+é+Yago;Curso+Análise+e+Desenvolvimento+de+Sistemas;Prazer.)](https://git.io/typing-svg)
+> Ultimamente interessado em Tudo que utiliza Python, C, Inteligëncia Artificial, Aprendizado de Máquina e Programação Evolucionária.
+https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif 
+-->
 <br>
 <br>
 <div align="center">
